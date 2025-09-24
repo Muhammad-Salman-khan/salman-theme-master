@@ -1,0 +1,21 @@
+{
+  "name": "salman-theme",
+  "displayName": "salman-theme",
+  "description": "theme for me ",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "salman-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/salman-theme-color-theme.json"
+      }
+    ]
+  }
+}
